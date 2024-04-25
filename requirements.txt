@@ -1,0 +1,8 @@
+easyocr==1.6.2
+ocrd_fork_pylsd
+onnx
+pafy
+PyYAML
+setuptools
+thop
+wandb
